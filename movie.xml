@@ -1,0 +1,20 @@
+<?xml version="1.1"?>
+<!DOCTYPE Movies SYSTEM "movies.dtd">
+<Movies>
+    <Movie year="1946">
+        <Title>It’s a Wonderful Life</Title>
+        <Price>14.95</Price>
+    </Movie>
+    <Movie year="1965">
+        <Title>The Great Race</Title>
+        <Price>12.95</Price>
+    </Movie>
+    <Movie year="1974">
+        <Title>Young Frankenstein</Title>
+        <Price>16.95</Price>
+    </Movie>
+    <Movie year="1975">
+        <Title>The Return of the Pink Panther</Title>
+        <Price>11.95</Price>
+    </Movie>
+</Movies>
